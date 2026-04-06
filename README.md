@@ -16,8 +16,4 @@
 
 ## 🧑‍💻 About Me
 
-### `> whoami`
-
-I'm **Bishal Shrestha** — an aspiring Full Stack Developer from Nepal 🇳🇵, driven by curiosity and a genuine love for building things that work.
-
-I spend my days diving deep into **Java**, exploring **Data Structures & Algorithms**, and turning ideas into real, functional software. I believe in learning by doing — every project is a new challenge, and every bug is a lesson.
+I'm **Bishal Shrestha** an aspiring Software Engineer from Nepal 🇳🇵, driven by curiosity and a genuine love for building things that work.I spend my days diving deep into **Java**, exploring **Data Structures & Algorithms**, and turning ideas into real, functional software. I believe in learning by doing every project is a new challenge, and every bug is a lesson.
