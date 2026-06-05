@@ -27,8 +27,8 @@ I spend my days diving deep into **Java**, exploring **Data Structures & Algorit
 ## 🔥 GitHub Streak
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=bishalstha045&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="70%"/>
+  
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=bishalstha045&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="70%"/>
 
 </div>
 
