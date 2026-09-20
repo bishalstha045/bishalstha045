@@ -39,9 +39,7 @@ I spend my days diving deep into **Java**, exploring **Data Structures & Algorit
 ## 📈 Contribution Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bishalstha045&theme=tokyo-night&hide_border=true&radius=10" alt="Contribution Graph" width="95%"/>
-
+  <img src="https://github-activity-chart.vercel.app/graph?username=bishalstha045&theme=tokyo-night&hide_border=true&radius=10" alt="Contribution Graph" width="95%"/>
 </div>
 
 ---
